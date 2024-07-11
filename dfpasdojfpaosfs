@@ -1,0 +1,502 @@
+[33mcommit 95e786844a2890fce440ba3b717335c243c9c167[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/felipe[m[33m, [m[1;31morigin/feat/felipe[m[33m)[m
+Author: felipedev418 <storm712418@gmail.com>
+Date:   Sat Jul 6 14:28:18 2024 -0700
+
+    fix: update account deletion OTP modal title
+
+[33mcommit 7357382f5efe3cdb9ab6e5d39c174149981a70b3[m
+Author: felipedev418 <storm712418@gmail.com>
+Date:   Sat Jul 6 14:03:17 2024 -0700
+
+    fix: env example file rebuild
+
+[33mcommit a233561f5185fda507bfb3b11cac4ba01c1ddd09[m
+Author: felipedev418 <storm712418@gmail.com>
+Date:   Sat Jul 6 13:58:55 2024 -0700
+
+    fix: wrong password comp
+
+[33mcommit 0f59a93cdc0266ce7fe1904cf013841ed9b33bf2[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sun Jul 7 03:20:35 2024 +0800
+
+    feat: otp feature
+
+[33mcommit 84b9e79989b134443dc17cedccefbc8ae37d36f5[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 16:23:37 2024 +0800
+
+    fix: delete User function
+
+[33mcommit 08752838e3a4377ca1b457fbc284aac4b8364ec0[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 13:21:44 2024 +0800
+
+    Create useNavbarheight.ts
+
+[33mcommit 977a081ae11880c2b2b6ad933e6c5888a38e94f1[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 13:21:18 2024 +0800
+
+    Delete src/Utils/Hooks/useNavbarHeight.ts
+
+[33mcommit 62d47d9d8a92477aa63913e6ea48eca26d397065[m
+Merge: a8bde6c 4cc53c0
+Author: Professor336699 <160789540+Professor336699@users.noreply.github.com>
+Date:   Sat Jul 6 10:31:26 2024 +0600
+
+    Merge pull request #10 from Professor336699/feat/felipe
+
+[33mcommit 4cc53c0790a71314571a8c1aedca0b3a23fbc36e[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 05:57:34 2024 +0800
+
+    feat: set env variables
+
+[33mcommit c6c8308f0ac6d36efcf954f0fe6548f84dddfa22[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 03:04:43 2024 +0800
+
+    feat: remove sharing feature
+
+[33mcommit 16467c62b00d9b307ae0c551d7dcee1affdb25d8[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 01:08:05 2024 +0800
+
+    fix: Optimize referral code
+
+[33mcommit d86a0efedbd9f510f25e5488e4a53fe5c7472c78[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Sat Jul 6 00:40:01 2024 +0800
+
+    feat: implement deactivate account
+
+[33mcommit d3b1f522b7279a4b196f4836830d9f50b7db71a9[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Fri Jul 5 07:13:36 2024 +0800
+
+    fix: account deactivation signout feature
+
+[33mcommit ea672cda1f9e6b0588ec811b43880a1a4ffa12c7[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Fri Jul 5 03:43:35 2024 +0800
+
+    feat: change email feature
+
+[33mcommit 5eda0eb996a706a4c324bb72a8f747e3d442f137[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Fri Jul 5 02:38:13 2024 +0800
+
+    feat: update username
+
+[33mcommit e7b5d4efb0c5fa7fcfcb804a19de6469ecd1f1fc[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Fri Jul 5 00:24:53 2024 +0800
+
+    feat: change password
+
+[33mcommit 3cdbd9e88d64317a3238470bc87fa2726da656f3[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Thu Jul 4 22:05:21 2024 +0800
+
+    feat: optimize banner and profile section
+
+[33mcommit 1a2566b39c266651a35d6574388b9912b21b21d3[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Thu Jul 4 21:15:15 2024 +0800
+
+    fix: naming error of navbar height
+
+[33mcommit 886c06528abeffcdff2a65a7b709f4fca349bf4b[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Thu Jul 4 08:32:04 2024 +0800
+
+    Feat: implement clipboard of sender address
+
+[33mcommit ee62ccf8f280ec116e5f7ad3a8a7900095e2b862[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Thu Jul 4 05:57:30 2024 +0800
+
+    feat: notification page issue solve
+
+[33mcommit b3b9201b698f53d86ab731fd4cf8ffbcfce280bc[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Thu Jul 4 03:15:55 2024 +0800
+
+    feat: add analytics reducer
+
+[33mcommit 12cc3ad0f4744a02762d9916006bc2d6e2730589[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Thu Jul 4 00:31:36 2024 +0800
+
+    feat: fetch analytic data to dashboard
+
+[33mcommit 8e844133de24f7d4f7da9e83bcfe2ffecd54550f[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Wed Jul 3 07:30:42 2024 -0700
+
+    fix: withdraw style and typescript error
+
+[33mcommit 976ee9f35d9af49754a81758bd6cec0ec82271da[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Tue Jul 2 23:44:38 2024 -0700
+
+    update: withdraw
+
+[33mcommit f63c7e140efabaa0ad19c8910a2d9715439448cb[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Tue Jul 2 19:08:27 2024 -0700
+
+    fix: deposit
+
+[33mcommit afb6db34904c06bdf72d50808982aacffee2f33b[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Tue Jul 2 14:02:09 2024 -0700
+
+    fix: dashboard
+
+[33mcommit 305baeb0b70ac0a72bf6afe801b2ebcabd5ef121[m
+Author: felipedev418 <felipedeaalmeida@gmail.com>
+Date:   Mon Jul 1 16:17:52 2024 -0700
+
+    update: authenticcation
+
+[33mcommit a8bde6c98434a524621f08eb26395516c196d09f[m
+Merge: 1594f57 19f3bcf
+Author: Professor336699 <160789540+Professor336699@users.noreply.github.com>
+Date:   Sun Jun 30 20:37:19 2024 +0600
+
+    Merge pull request #9 from Professor336699/johaner
+    
+    Ensured that the user lands on the sign-in screen. After a successful sign-in, direct them to the dashboard
+
+[33mcommit 19f3bcf4059afeb87f5f8635985b6118e95deb31[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Tue Jun 18 11:49:36 2024 +0900
+
+    integrate authentication apis
+
+[33mcommit e1448fa7770ed21757abbabafbc06e8f6c7dace2[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Sat Jun 15 04:54:07 2024 +0900
+
+    implemented mode menu with radio
+
+[33mcommit 40194fdb1608b59607d7aa7d18733487aec0f7a3[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Sat Jun 15 00:40:47 2024 +0900
+
+    border radius of document type card in kyc verification page
+
+[33mcommit 6061309ed60fef91eb4348044e09e7aa51eeb040[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Sat Jun 15 00:33:38 2024 +0900
+
+    page title and item container border radius in announcements and notifications pages
+
+[33mcommit f7ae399f92ff9a7a06700a10422044dc4afa9276[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 23:50:10 2024 +0900
+
+    use full name in profile page
+
+[33mcommit 295dac12646b7fe4ef2a2fe36ecf3bc080824239[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 23:37:59 2024 +0900
+
+    place table column tooltips above each column in transactions and referrals page
+
+[33mcommit 78769bfc1c911acb2579108dd9bca9ba6ab56372[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 23:24:39 2024 +0900
+
+    space in signup page
+    rename User Name to Username
+    theme transition of checkbox
+
+[33mcommit 8a13c3306c7216e16ab14c5865c857a72e19d253[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 23:08:57 2024 +0900
+
+    transtion when switching theme mode in delete account, announcements, notifications pages
+
+[33mcommit 24cabee4ab28f3a8f9e256b7ed0889ade6d5a9b0[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 19:33:52 2024 +0900
+
+    set modal radius to make same with container
+
+[33mcommit e4646e3a0aa64d8c27ddb0d3e0c34278e343db10[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 19:27:16 2024 +0900
+
+    set font size of inpu, select, textarea with original from 16px, need to check in mobile
+
+[33mcommit 1c2e3e87a8b8c0810946b0db5310e0eaf9770747[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 18:48:55 2024 +0900
+
+    hamburger icon cursor area when mobile view
+
+[33mcommit 2399056cbcf1cf9ea136542f1f3eae6887d582dd[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 18:37:03 2024 +0900
+
+    implement avatar menu with popover
+
+[33mcommit dc67b98d7c77c52bee287ec1a134795bbc0f8da0[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 12:31:45 2024 +0900
+
+    proper alignment in dashboard page
+
+[33mcommit f76a9a0756ea604de29464192611406c307aa1b4[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 12:15:17 2024 +0900
+
+    hamburger icon border radius
+
+[33mcommit 51dbec73cebad6ea2fe809c71968de356b10657e[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 04:52:34 2024 +0900
+
+    transition when switching theme mode
+
+[33mcommit 8ced801b3c47a4974d323a42e7724a630714c783[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Fri Jun 14 00:59:18 2024 +0800
+
+    gap between header and qrcode popover
+
+[33mcommit 292830f9332e000304e149951dd439f40d4f624e[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 23:54:56 2024 +0800
+
+    title alignment in qrcode popover
+
+[33mcommit e81acb07cfa14af67ca7b9b5f0134f0f89d185e2[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 23:50:42 2024 +0800
+
+    alignments and scrolling in kyc page
+
+[33mcommit 6607a5d34246d7348c7a7e861a069bd6c64dc5d7[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 23:28:11 2024 +0800
+
+    color of announcement icon
+
+[33mcommit 4add5729dae4fd75296f710446d82dba3e756f1a[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 23:49:30 2024 +0900
+
+    remove arrow of qrcode popover, need to work with gap
+
+[33mcommit 6c60caca5bf9f8a66e974474b8c022cb9594bbbb[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 23:24:23 2024 +0900
+
+    hide logo and icons when opening mobile view navbar
+
+[33mcommit bf509eb40b91bc7ae8066a482240f44fc6a15ecd[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 23:00:59 2024 +0900
+
+    navbar icons alignment
+
+[33mcommit aa28520e4a9e9a5b99fee64ec93329c3895af0ae[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 22:13:36 2024 +0900
+
+    container and buttons in kyc page
+
+[33mcommit 5263403c1410c5cc03be4a37dbb9fa99acc12d59[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 19:18:27 2024 +0900
+
+    remove shadows from all the buttons
+
+[33mcommit 6333a16bb071b83a69829a97d6abed8884b2d8cd[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 19:13:40 2024 +0900
+
+    hamburger button size
+
+[33mcommit c693df0961e40d441dd0f1143a17cb6f6f2fa4d7[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 12:22:46 2024 +0900
+
+    working on smooth transition when switching theme mode (need to work more on other pages)
+
+[33mcommit 0536bc23ba7b949e5a32e0301f5343de068e6985[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 12:17:43 2024 +0900
+
+    working on smooth transition when switching theme mode
+
+[33mcommit 50e2b62fcbb82b66b6fd9b1c762982e1353a2dc5[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 11:35:09 2024 +0900
+
+    rename withdrawal to withdraw
+
+[33mcommit 76fbcc06c9e99258c2dc4c36bdb2c13225d8bfe7[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 11:33:29 2024 +0900
+
+    - keep selected theme on avatar menu of navbar
+    - gap between navbar and avatar menu when mobile view
+
+[33mcommit 2c4730cec52bf9ecf9a74aa62f830f2728149177[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 00:36:38 2024 +0900
+
+    qr code popover position when mobile view
+
+[33mcommit 70602ae646a577f00d2afa1d7542428e05c87d80[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 00:20:44 2024 +0900
+
+    changed buttons placement from horizental to vertical in signup page
+
+[33mcommit 634d57e15fb66bbd6881c6345826ff2e3a344bce[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Thu Jun 13 00:09:38 2024 +0900
+
+    hamburger icon, need to work more
+
+[33mcommit e42d385dd3d6920afe02accb6e8906b57251afff[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Wed Jun 12 23:07:50 2024 +0900
+
+    set navbar height with 48px when mobile view
+
+[33mcommit a67cefe04b703f02d5b73aa3ff3b43d0d28d0d47[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Wed Jun 12 19:49:59 2024 +0900
+
+    unset margin of content for authentication pages
+
+[33mcommit 06bf8f3684ec5ca0729170d0cda982f8cc37b047[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Wed Jun 12 19:47:07 2024 +0900
+
+    navbar for authentication pages
+
+[33mcommit 97fc3cc475e5a562adba07b2aa93b2a47125e175[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Wed Jun 12 15:38:14 2024 +0900
+
+    worked on kyc verification page
+    - title
+    - input alignment
+    - button position
+
+[33mcommit 34be47fff214acf38370874fabb31e84390e8ad5[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Wed Jun 12 11:46:56 2024 +0900
+
+    component for page title, need to use this component for whole titles
+
+[33mcommit 29e23afbd04e81ad89359b13a32138f02907542a[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Tue Jun 11 23:58:37 2024 +0900
+
+    - prevent zoom when focus input on mobile device
+    - working on floating input, need to check in safari
+
+[33mcommit 0cf8bedf2b8e49ba67f9d0f781a7105be29f72fb[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Tue Jun 11 00:01:06 2024 +0900
+
+    working on transition when switching theme mode
+
+[33mcommit 58525ec440c4860b2baf1b609e60fd22d207831c[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 23:34:51 2024 +0900
+
+    fixed navbar problem
+
+[33mcommit b7580b58f501645b4d6203c9df53b4330215ce66[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 23:34:24 2024 +0900
+
+    placed modals at center vertically and made those have styles according to design pattern
+
+[33mcommit 83556d58f71aa8448ae23229898dd0d677a3ed53[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 22:50:52 2024 +0900
+
+    adjust transition time for navbar when mobile view again
+
+[33mcommit ed3f1a16d66f16cb4474c306a13bcebd90d6543c[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 22:44:55 2024 +0900
+
+    adjust transition delay time for navbar when mobile view
+
+[33mcommit b0ae218bb3f0506f95f5bc9070c9bea81c976cc4[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 22:40:00 2024 +0900
+
+    remove contact information page completely
+
+[33mcommit 2fc07ab8fa02f927ffeca8a4ef9109f342ce0e79[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 22:27:55 2024 +0900
+
+    fixed some in deposit and withdrawal page
+
+[33mcommit f94e91f98f0ef139f7961f54852f2db4d10476f8[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 21:31:58 2024 +0900
+
+    fixed page titles according to design pattern
+
+[33mcommit 6619ce6eaf60176ec7b5563b8ecda7539192d590[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 20:41:34 2024 +0900
+
+    remove border of card
+
+[33mcommit 61d5393b39f6b0c264e300261bc86266c90d252c[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 13:51:58 2024 +0900
+
+    next button position in kyc verification page
+
+[33mcommit 3ae11ce44a30e311840d9c7c65086ec9444cecb1[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 13:50:11 2024 +0900
+
+    dark mode and design pattern in feeback page
+
+[33mcommit 84d05bdf2766a58df60d2eccd7dd2e6159616c92[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 13:39:11 2024 +0900
+
+    fixed ticket submission system page according to design pattern
+
+[33mcommit fc3f6cbad18170f62733ecdb6f3179f3759ddb53[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 13:11:05 2024 +0900
+
+    fix container in transactions and referrals pages
+
+[33mcommit 3c82bcf9873ded653e11346f216f906e821ebf37[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 12:37:29 2024 +0900
+
+    fix change password page to make it has same design pattern with change name and change email pages
+
+[33mcommit 59cf98139cf8a9665b859ee4af946704a079eb8e[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 11:57:19 2024 +0900
+
+    fix padding of containers and statistics responsive
+
+[33mcommit 70430a51f148006b4ac7c37fdcb81701390743f7[m
+Author: Johaner <providencesatterfield@gmail.com>
+Date:   Mon Jun 10 11:13:02 2024 +0900
+
+    changed border radius of container in profile page to 18px according to design patter
